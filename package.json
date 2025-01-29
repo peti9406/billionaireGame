@@ -1,0 +1,12 @@
+{
+  "name": "tic-tac-toe-console",
+  "version": "1.0.0",
+  "main": "game.js",
+  "type": "module",
+  "dependencies": {
+    "prompt-sync": "4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
